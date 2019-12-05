@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1428607947 source:c:\users\fumachi\documents\teste_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"esquenta.h"
+	"megasena.h"
+	"quina.h"
+	"lotofacil.h"
+
+1428608633 source:c:\users\fumachi\documents\teste_02\megasena.c
+	<stdio.h>
+
+1428605715 c:\users\fumachi\documents\teste_02\megasena.h
+
+1428608762 source:c:\users\fumachi\documents\teste_02\lotofacil.c
+	<stdio.h>
+
+1428605900 c:\users\fumachi\documents\teste_02\esquenta.h
+
+1428607375 c:\users\fumachi\documents\teste_02\quina.h
+
+1428605987 c:\users\fumachi\documents\teste_02\lotofacil.h
+
+1428608677 source:c:\users\fumachi\documents\teste_02\quina.c
+	<stdio.h>
+
+1428607020 source:c:\users\fumachi\documents\teste_02\esquenta.c
+
+1428607020 source:z:\dropbox\teste_02\esquenta.c
+
+1430017898 source:z:\dropbox\teste_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"esquenta.h"
+	"megasena.h"
+	"quina.h"
+	"lotofacil.h"
+
+1428605900 z:\dropbox\teste_02\esquenta.h
+
+1428605715 z:\dropbox\teste_02\megasena.h
+
+1428607375 z:\dropbox\teste_02\quina.h
+
+1428605987 z:\dropbox\teste_02\lotofacil.h
+
+1428608677 source:z:\dropbox\teste_02\quina.c
+	<stdio.h>
+
+1430017850 source:z:\dropbox\teste_02\lotofacil.c
+	<stdio.h>
+
+1430016986 source:z:\dropbox\teste_02\megasena.c
+	<stdio.h>
+
+1430074717 source:z:\dropbox\loteria\esquenta.c
+
+1430021027 source:z:\dropbox\loteria\lotofacil.c
+	<stdio.h>
+
+1430021042 source:z:\dropbox\loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"esquenta.h"
+	"megasena.h"
+	"quina.h"
+	"lotofacil.h"
+
+1428605900 z:\dropbox\loteria\esquenta.h
+
+1428605715 z:\dropbox\loteria\megasena.h
+
+1428607375 z:\dropbox\loteria\quina.h
+
+1428605987 z:\dropbox\loteria\lotofacil.h
+
+1430020870 source:z:\dropbox\loteria\megasena.c
+	<stdio.h>
+
+1428608677 source:z:\dropbox\loteria\quina.c
+	<stdio.h>
+
+1430413929 source:c:\users\note\dropbox\c\loteria\lotofacil.c
+	<stdio.h>
+
+1430021042 source:c:\users\note\dropbox\c\loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"esquenta.h"
+	"megasena.h"
+	"quina.h"
+	"lotofacil.h"
+
+1428605900 c:\users\note\dropbox\c\loteria\esquenta.h
+
+1428605715 c:\users\note\dropbox\c\loteria\megasena.h
+
+1428607375 c:\users\note\dropbox\c\loteria\quina.h
+
+1428605987 c:\users\note\dropbox\c\loteria\lotofacil.h
+
+1428608677 source:c:\users\note\dropbox\c\loteria\quina.c
+	<stdio.h>
+
+1440092335 source:c:\users\note\dropbox\c\loteria\esquenta.c
+
+1440092619 source:c:\users\note\dropbox\c\loteria\megasena.c
+	<stdio.h>
+
